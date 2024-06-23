@@ -38,7 +38,7 @@ I thrive on turning data into actionable insights and innovative AI-driven solut
 I'm intrigued by the potential of AI to revolutionize how we interact with data and technology.
 Outside of work, I'm an avid explorer of new tech trends and enjoy merging my tech knowledge with creative hobbies.
 
-![Visitor Count](https://profile-counter.glitch.me/{datawizswap}/count.svg)
+Profile Views![Visitor Count](https://profile-counter.glitch.me/{datawizswap}/count.svg)
 
 <!---
 datawizswap/datawizswap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
