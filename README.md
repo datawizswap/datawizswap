@@ -39,6 +39,4 @@ I'm intrigued by the potential of AI to revolutionize how we interact with data 
 Outside of work, I'm an avid explorer of new tech trends and enjoy merging my tech knowledge with creative hobbies.
 
 ## Profile Views: 
-![Visitor Count](https://profile-counter.glitch.me/{datawizswap}/count.svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=datawizswap&color=blue&style=plastic)
