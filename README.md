@@ -1,6 +1,5 @@
 # Hello, I'm Swapnil Mishra! 👋
 
-
 ## 🚀 About Me
 I'm a passionate Data Scientist with a deep interest in Artificial Intelligence and its transformative potential.
 My journey in Python and data science is constantly fueled by my fascination with AI's capabilities, from machine learning to generative models.
