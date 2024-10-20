@@ -46,8 +46,7 @@ I thrive on turning data into actionable insights and innovative AI-driven solut
 
 ## 📫 How to reach me: 
 - Email: iswapnilmishra@gmail.com
-- LinkedIn: [www.linkedin.com/in/iswapnilmishra](https://www.linkedin.com/in/iswapnilmishra)
-
+- LinkedIn: www.linkedin.com/in/iswapnilmishra](https://www.linkedin.com/in/iswapnilmishra
 ## ⚡ Fun fact: 
 I'm intrigued by the potential of AI to revolutionize how we interact with data and technology.
 Outside of work, I'm an avid explorer of new tech trends and enjoy merging my tech knowledge with creative hobbies.
